@@ -1,0 +1,15 @@
+{
+  "config": {
+    "sim_threshold": 0.45,
+    "summary_ratio": 0.3,
+    "n_documents": 93,
+    "llm_judge_mode": "llama_local"
+  },
+  "averages": {
+    "BLEU": 0.19046013971767298,
+    "ROUGE-L": 0.2593465305979438,
+    "OrigIntent_F1": 0.11816909826695102,
+    "SIM_F1": 0.7079816753512049,
+    "LLM_Judge": 4.279569892473118
+  }
+}
